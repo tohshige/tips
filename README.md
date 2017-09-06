@@ -4,4 +4,4 @@
 
 
 ## vscode/walkThrough
-https://github.com/tohshige/tips/tree/master/
+https://github.com/tohshige/tips/tree/master/vscode/walkThrough
